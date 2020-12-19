@@ -1,2 +1,1 @@
-// comment
-// comment 2
+main(){}
