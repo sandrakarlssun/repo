@@ -14,5 +14,4 @@ void window(){}
 //fisk2
 //fisk2
 //fisk2
-//fisk2
 more gui
